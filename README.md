@@ -141,8 +141,8 @@ This project provides hands-on experience with:
 ## Author
 
 **Pratik Karmakar**
-Rungta International Skills University
-Session: 2025–26
+* Rungta International Skills University
+* Session: 2025–26
 
 ## Conclusion
 
